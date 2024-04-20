@@ -15,7 +15,8 @@
 
 ### Fases
 ---
-#### 🔹 Construção do index.html;
+#### 🔹 Construção do wireframe da página;
+#### 🔹 construção do index.html;
 #### 🔹 Construção do style.css;
 #### 🔹 Construção do script.js;
 #### 🔹 Criação repositório no Github; 
