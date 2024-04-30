@@ -26,5 +26,6 @@
 
 ### Link
 ---
+#### 🔹 Deploy Github Pages: https://joaoluizdev.github.io/Jogo-da-Velha/
 #### 🔹 Deploy: https://jogo-da-velha-dusky-nine.vercel.app/
 
